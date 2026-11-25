@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://drbeast131999.github.io/thepcgames-gta-games-2qeb/sitemap.xml
